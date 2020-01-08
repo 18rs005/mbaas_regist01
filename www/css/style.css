@@ -32,6 +32,18 @@ input {
   background-color: blue;
 }
 
+#awa{
+  max-width: 180px;
+  height: auto;
+  top: 50%;
+}
+
+#haitatsu{
+  max-width: 170px;
+  height: auto;
+  top: 50%;
+}
+
 #message {
   border-style: solid;
   border-color: grey;
